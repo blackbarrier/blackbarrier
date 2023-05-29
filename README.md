@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blackbarrier, better know as Leandro Barrera.
+- 👋 Hi, I’m @blackbarrier from BlackBarrier.inc
 - 👀 I’m interested in begin a better developer.
 - 🌱 Currently learning some of symfony, php, and javascript.
 <!---
